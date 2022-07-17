@@ -24,10 +24,10 @@ This is the back end for an e-commerce site. Taking a working Express.js API and
 
 To install dependencies, run the following code:
 
-npm init
-npm install express
-npm install sequalize
-npm install dotenv
+npm init\
+npm install express\
+npm install sequalize\
+npm install dotenv\
 npm install mysql2
 
 ## usage
@@ -44,7 +44,7 @@ Copyright © MIT. All rights reserved.
 ## contributors
 
 Terrence Mashoro
-[tmashoro](https://github.com/tmashoro/)
+[tmashoro](https://github.com/tmashoro/)\
 [Contact Info] (tmashoro@gmail.com)
 
 ## test
